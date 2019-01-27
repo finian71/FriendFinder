@@ -24,5 +24,5 @@ $ npm install
 
 ## Features
 
-- large database of users (albiet fake!)
+- large database of users 
 - returns percent match with friend, their job tite and phnoe number.
