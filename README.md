@@ -25,4 +25,4 @@ $ npm install
 ## Features
 
 - large database of users 
-- returns percent match with friend, their job tite and phnoe number.
+- returns percent match with friend, their job tite and phone number.
