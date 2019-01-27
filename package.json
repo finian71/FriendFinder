@@ -1,0 +1,29 @@
+{
+    "name": "FriendFinder",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/singha53/FriendFinder.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/singha53/FriendFinder/issues"
+    },
+    "homepage": "https://github.com/singha53/FriendFinder#readme",
+    "dependencies": {
+      "axios": "^0.18.0",
+      "body-parser": "^1.18.3",
+      "express": "^4.16.3",
+      "faker": "^4.1.0",
+      "node-correlation": "^1.0.2",
+      "path": "^0.12.7"
+    }
+  }
